@@ -1,0 +1,5 @@
+'self.c' and 'self_one_line.c' are what I came up with after starting to
+read Ken Thompson's "Reflections on Trusting Trust"[1] paper. 'ken.c' is the
+classic C example found on the internet.
+
+[1] = https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
